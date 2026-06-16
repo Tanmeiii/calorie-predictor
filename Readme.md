@@ -64,6 +64,9 @@ Run the application
 python app.py
 ```
 
+## Live Demo
+Render: https://calorie-predictor-id9p.onrender.com
+
 ## Folder Structure
 ```bash
 CALORIEPREDICTOR/
